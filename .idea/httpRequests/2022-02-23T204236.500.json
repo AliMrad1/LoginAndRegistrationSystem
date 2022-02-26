@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-02-23T18:42:36.222+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "not-null property references a null or transient value : com.example.demo.registration.token.ConfirmationToken.confirmedAt; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.demo.registration.token.ConfirmationToken.confirmedAt",
+  "path": "/api/v1/registration"
+}

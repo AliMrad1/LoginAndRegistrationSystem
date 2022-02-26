@@ -1,0 +1,423 @@
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T224431.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T224252.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T224205.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T223501.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T223220.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T223029.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T222142.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-25T221908.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am8396280@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-24T143300.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-24T141802.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-24T131547.200.txt
+
+###
+
+GET http://localhost:8080/api/v1/registration/confirm?token=553208cb-62d8-40c4-93c8-2c3e7daac057
+
+<> 2022-02-24T094709.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-24T094644.200.txt
+
+###
+
+GET http://localhost:8080/api/v1/registration/confirm?token=84a561d8-0fd0-4d52-8149-f411238ee66b
+
+<> 2022-02-24T094139.404.json
+
+###
+
+GET http://localhost:8080/api/v1/registration/confirm?token=84a561d8-0fd0-4d52-8149-f411238ee66b
+
+<> 2022-02-24T094135.404.json
+
+###
+
+GET http://localhost:8080/api/v1/registration/confirm?token=84a561d8-0fd0-4d52-8149-f411238ee66b
+
+<> 2022-02-24T094051.404.json
+
+###
+
+GET http://localhost:8080/api/v1/registration/confirm?token=84a561d8-0fd0-4d52-8149-f411238ee66b
+Accept: application/json
+
+<> 2022-02-24T093933.404.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-24T093232.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T204551.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T204236.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T094047.200.txt
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T093619.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T093151.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T091823.500.json
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T085626.200.html
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-23T084810.200.html
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "Mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "Mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+<> 2022-02-22T222044.200.html
+
+###
+
+POST http://localhost:8080/api/v1/registration
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "Mrad",
+  "email": "am32@gmail.com",
+  "password" : "pass"
+}
+
+###
+
